@@ -1,0 +1,32 @@
+# Build output
+Debug/
+Release/
+build/
+out/
+
+# ADS / Eclipse local files
+.ads/
+.settings/
+.vscode/
+
+# Logs
+*.log
+launch-tool.log
+
+# Debug launch configs
+*.launch
+
+# Binary / intermediate files
+*.o
+*.d
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+*.srec
+
+# Temp
+*.tmp
+*.bak
+*.swp
